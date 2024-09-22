@@ -1,4 +1,4 @@
-# most_streamed_spotify_songs
+# Most Streamed Spotify Songs
 
 EDA for the Kaggle dataset Most Streamed Spotify Songs 2023.
 
